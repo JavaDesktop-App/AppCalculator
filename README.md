@@ -1,4 +1,4 @@
-# AppCalculator1
+# AppCalculator
  
 Es una aplicación de escritorio desarrollada en Java que implementa una calculadora básica con una interfaz gráfica intuitiva. La aplicación está diseñada para realizar operaciones matemáticas fundamentales de manera rápida y sencilla.
 
