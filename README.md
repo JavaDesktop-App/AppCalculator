@@ -59,6 +59,11 @@ sudo dpkg -i appcalculator_1.0_amd64.deb
 
 Este proyecto fue desarrollado como práctica para el aprendizaje del desarrollo de aplicaciones de escritorio en Java, enfocándose en la creación de interfaces gráficas, manejo de eventos y lógica de operaciones matemáticas.
 
+## Download
+
+Descarga aqui:
+[https://github.com/JavaDesktop-App/AppCalculator/releases/tag/calc]
+
 # Licencia
 
 Uso personal o Empresarial
