@@ -62,7 +62,7 @@ Este proyecto fue desarrollado como práctica para el aprendizaje del desarrollo
 ## Download
 
 Descarga aqui:
-[https://github.com/JavaDesktop-App/AppCalculator/releases/tag/calc]
+[https://github.com/DesarrolladorWebApps/AppCalculator/releases/tag/calc]
 
 # Licencia
 
